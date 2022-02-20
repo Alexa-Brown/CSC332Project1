@@ -1,3 +1,5 @@
+//Ryan Phadnis and Alexa Brown
+//Project 1 -- CSC 332
 //adapted from https://create.arduino.cc/projecthub/shubhamsantosh99/joystick-controlled-mouse-af2939
 
 
@@ -29,12 +31,12 @@ void loop() {
   z=0;
   if(xpos!=0 or ypos!=0 or z==1) // prints only when the joystick is moved
   {
-  Serial.print(ypos);    // print the data and separating by ":"
+  Serial.print(ypos);    
   Serial.print(":");
   Serial.print(xpos);
   Serial.print(":");
   Serial.println(z);
   }
   prev_state=curr_state;
-  delay(10);         // for normal operation
+  delay(10);      
 }
