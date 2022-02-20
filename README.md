@@ -1,6 +1,8 @@
 # CSC332Project1
 
-Illustrations and prototype examples: https://docs.google.com/presentation/d/1yBgY2pdBv8rbfq0vcSQpZO3umLddCJLjhhLtzsatiZ8/edit?usp=sharing  ------ https://youtu.be/qYAiMQh7Qxw
+Illustrations and prototype examples: https://docs.google.com/presentation/d/1yBgY2pdBv8rbfq0vcSQpZO3umLddCJLjhhLtzsatiZ8/edit?usp=sharing
+
+https://youtu.be/qYAiMQh7Qxw
 
  
   
