@@ -19,7 +19,7 @@ USB connector
 
 Computer
 
-In our circuit, we used a breadboard to connect the joystick to the Arduino Uno. The wiring is very similar to the image above. However, the 5V and GND are wired to the breadboard, which is then wired to the joystick. 
+In our circuit, we used a breadboard to connect the joystick to the Arduino Uno. The wiring is very similar to the image on slide 3. However, the 5V and GND are wired to the breadboard, which is then wired to the joystick. Therefore, the illustration on slide 2 is in reference to how we built it.
 
  
   
